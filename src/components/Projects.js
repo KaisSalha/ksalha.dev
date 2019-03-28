@@ -9,7 +9,7 @@ const DEFAULT_IMAGES = [
   {
     id: 'thumb2',
     thumbnail: thumb02,
-    caption: 'kaissalha.dev',
+    caption: 'ksalha.dev',
     tech:
       "Personal Project: This website! Hope you like it. It uses Gatsby.Js to serve static HTML files rather than JavaScript. Which is why it's fast. Hosted with Netlify and Cloudflare.",
     description: 'Tech: React.Js, Gatsby.Js',
