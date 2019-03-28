@@ -77,7 +77,7 @@ class HomeIndex extends React.PureComponent {
                 {'{'} software development is my passion 💻 {'}'}
               </h2>
               <p>
-                My name is Kais Salha. I'm 23 years old with a bachelor's in
+                My name is Kais Salha. I'm a 24 years old with a bachelor's in
                 computer engineering from Multimedia University Cyberjaya.
                 Currently doing a post-grad in Network Security and Architecture
                 at Fanshawe College.
