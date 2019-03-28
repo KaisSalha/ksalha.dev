@@ -83,18 +83,6 @@ export default class Life extends PureComponent {
     return (
       <div>
         <section>
-          <p
-            style={{
-              color: '#7b7475',
-            }}
-          >
-            My name is Osama Qarem. I'm 23 years old with a bachelor's in
-            engineering from MMU Cyberjaya. Currently doing masters as a
-            graduate research assistant in MMU on Eulerian Video Magnification.
-            I discovered my passion for software development after starting my
-            masters. Therefore, I had to learn everything on my own during my
-            free time. This website is a portfolio of my progress.
-          </p>
           <h2 style={{ textDecoration: 'underline' }}>Instagram Feed</h2>
           <p>I occasionally blog on instagram.</p>
           <span style={{ fontSize: '0.85em' }}>Click for full photo</span>
