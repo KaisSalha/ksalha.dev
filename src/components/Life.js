@@ -100,7 +100,7 @@ export default class Life extends PureComponent {
           <ul className="actions">
             <li>
               <a
-                href="https://www.instagram.com/osamaqarem/"
+                href="https://www.instagram.com/kaissalha/"
                 className="button"
                 target="_blank"
                 rel="noopener noreferrer"
