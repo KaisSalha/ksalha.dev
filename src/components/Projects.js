@@ -2,13 +2,17 @@ import React, { PureComponent } from 'react'
 import NoLightGallery from './NoLightGallery'
 
 import thumb01 from '../assets/images/thumbs/2.png'
+import thumb01b from '../assets/images/thumbs/2.png'
 import thumb02 from '../assets/images/thumbs/1.png'
+import thumb02b from '../assets/images/thumbs/1.png'
 import thumb06 from '../assets/images/thumbs/3.png'
+import thumb06b from '../assets/images/thumbs/3.png'
 
 const DEFAULT_IMAGES = [
   {
     id: 'thumb2',
-    thumbnail: thumb02,
+    thumbnail: thumb02b,
+    altThumbnail: thumb02,
     caption: 'ksalha.dev',
     tech:
       "Personal Project: This website! Hope you like it. It uses Gatsby.Js to serve static HTML files rather than JavaScript. Which is why it's fast. Hosted with Netlify and Cloudflare.",
@@ -17,7 +21,8 @@ const DEFAULT_IMAGES = [
   },
   {
     id: 'thumb1',
-    thumbnail: thumb01,
+    thumbnail: thumb01b,
+    altThumbnail: thumb01,
     caption: 'DevConnect',
     tech:
       'Personal Project: A social network web app with signup, login, personal profiles, posts, comments, feed, like & unlike system and more.',
@@ -26,7 +31,8 @@ const DEFAULT_IMAGES = [
   },
   {
     id: 'thumb1',
-    thumbnail: thumb06,
+    thumbnail: thumb06b,
+    altThumbnail: thumb06,
     caption: 'maxcare.sa',
     tech:
       "Client Project: The first website I ever made after learning Mongo, Express, Node, HTML, and CSS for the first time (unoptimized). I like to look at it to see how far I've come since I began this journey.",
