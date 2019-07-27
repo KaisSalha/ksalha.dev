@@ -33,11 +33,11 @@ const DEFAULT_IMAGES = [
     id: 'thumb1',
     thumbnail: thumb06b,
     altThumbnail: thumb06,
-    caption: 'maxcare.sa',
+    caption: 'http://www.maxcare.sa',
     tech:
       "Client Project: The first website I ever made after learning Mongo, Express, Node, HTML, and CSS for the first time (unoptimized). I like to look at it to see how far I've come since I began this journey.",
     description: 'Tech: HTML, CSS, MongoDB, Express.Js, Node.Js',
-    link: 'http://maxcare.sa',
+    link: 'http://www.maxcare.sa',
   },
 ]
 
